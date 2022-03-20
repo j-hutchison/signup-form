@@ -258,6 +258,10 @@ Class selectors
 		text-align: center;
 	}
 
+	.registration-form {
+		background-color: #fff;
+		padding: 2.4rem;
+
 	.btn-purple {
 		padding-left: 6.6rem;
 		padding-right: 6.6rem;
